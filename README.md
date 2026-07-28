@@ -22,19 +22,19 @@ Studying Psychology has strengthened my analytical thinking and problem-solving 
   <img src="https://skillicons.dev/icons?i=python,git,github,sqlite" alt="Python, Git, GitHub and SQLite icons" />
 </p>
 
-**Libraries and Tools:** Requests, BeautifulSoup, JSON, CSV
+**Libraries and Tools:** Requests, BeautifulSoup, SQLite, JSON, CSV, Logging
 
 ---
 
 ## Featured Projects
 
-### E-Commerce Product Collector
+### [E-Commerce Product Collector](https://github.com/niisa0/ecommerce-product-collector)
 
-A Python CLI application that collects product data from an API, validates and cleans records, filters and sorts results, and exports them as JSON and CSV reports.
+A Python CLI application that collects product data from an API, validates and cleans records, removes duplicates, filters and sorts results, and exports them as JSON and CSV reports.
 
-### Web Change Monitor
+### [Web Change Monitor](https://github.com/niisa0/web-change-monitor)
 
-A Python application that monitors static web pages, detects content changes using Requests and BeautifulSoup, stores previous values in SQLite, and records change history.
+A modular Python application that monitors static web pages, detects content changes using Requests and BeautifulSoup, stores previous values in SQLite, and records change history and application logs.
 
 ---
 
