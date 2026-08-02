@@ -1,8 +1,10 @@
 # Hi, I'm Nisa
 
-### Python Software Developer | Psychology Student
+### Python Developer | Psychology Student
 
-Studying Psychology has strengthened my analytical thinking and problem-solving skills. I apply these skills while building practical Python applications and continuously improving my software development skills through real-world projects.
+I build practical Python solutions for automation, web scraping, API integration, data processing, and data analysis.
+
+My background in Psychology strengthens my analytical thinking and helps me approach problems from a human-centered perspective. I continuously improve my skills through hands-on projects that solve real-world problems.
 
 ---
 
@@ -10,19 +12,20 @@ Studying Psychology has strengthened my analytical thinking and problem-solving 
 
 - Python Development
 - Automation
-- APIs
 - Web Scraping
-- Data Processing
+- API Integration
+- Data Processing and Analysis
 
 ---
 
 ## Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,sqlite" alt="Python, Git, GitHub and SQLite icons" />
-</p>
-
-**Libraries and Tools:** Requests, BeautifulSoup, SQLite, JSON, CSV, Logging
+- **Programming:** Python
+- **Data Analysis:** Pandas
+- **Web Scraping:** Requests, BeautifulSoup
+- **Databases:** SQLite
+- **Data Formats:** JSON, CSV
+- **Tools:** Git, GitHub, Logging
 
 ---
 
@@ -30,14 +33,22 @@ Studying Psychology has strengthened my analytical thinking and problem-solving 
 
 ### [E-Commerce Product Collector](https://github.com/niisa0/ecommerce-product-collector)
 
-A Python CLI application that collects product data from an API, validates and cleans records, removes duplicates, filters and sorts results, and exports them as JSON and CSV reports.
+A Python command-line application that collects product data from an API, validates and cleans records, removes duplicates, applies filters and sorting, and exports structured JSON and CSV reports.
 
 ### [Web Change Monitor](https://github.com/niisa0/web-change-monitor)
 
-A modular Python application that monitors static web pages, detects content changes using Requests and BeautifulSoup, stores previous values in SQLite, and records change history and application logs.
+A Python application that monitors selected webpage elements, detects content changes, stores results in SQLite, and maintains a history of recorded changes.
+
+---
+
+## Currently Learning
+
+- Advanced Pandas and data analysis
+- Building more reliable automation tools
+- Improving software structure and documentation
 
 ---
 
 ## Goal
 
-Build reliable software, continuously improve through real-world projects, and grow into a well-rounded software developer.
+To build reliable Python solutions, gain professional experience through real-world projects, and grow as a well-rounded developer.
